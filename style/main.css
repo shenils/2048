@@ -392,26 +392,26 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background-image: url("https://consequenceofsound.files.wordpress.com/2013/07/number1.jpg");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/10/MRT_Singapore_Destination_2.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background-image: url("http://teche.ltc.mq.edu.au/wp-content/uploads/2013/10/number-3-md.png"); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background-image: url("http://static1.squarespace.com/static/52eff584e4b0407116225b69/t/5489f437e4b0a171f6b02543/1418327095701/"); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/2000px-Channel_5_logo_2011.svg.png"); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background-image: url("http://www.viewmichiganhomes.com/agent_files/6.png"); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: #edcf72;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4P_W45iH4tlJfiwKZPOiC5uxh219r1ptFR6y-Ik3QdwAJKyI");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -419,7 +419,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background: #edcc61;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0l-LmKeZqMVvJiC8u4xC1jyG3S9QHYIqlEbLHMKsvlqC4yoaf");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -427,7 +427,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background: #edc850;
+    background-image: url("http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -435,7 +435,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: #edc53f;
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHVz_cjcJ0yfXYNOuTjKjt1-8syJoXeYbLplh4TzpfaNhvV8J9eA");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -443,7 +443,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
+    background-image: url("http://www.sheffield.ac.uk/polopoly_fs/1.385154!/image/Year_11_logo.jpg");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
