@@ -390,9 +390,11 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 55px; }
+    font-size: 0px; 
+    background-size: cover;}
   .tile.tile-2 .tile-inner {
     background-image: url("https://consequenceofsound.files.wordpress.com/2013/07/number1.jpg");
+    background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/10/MRT_Singapore_Destination_2.png");
@@ -413,18 +415,18 @@ hr {
     color: #f9f6f2;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4P_W45iH4tlJfiwKZPOiC5uxh219r1ptFR6y-Ik3QdwAJKyI");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0l-LmKeZqMVvJiC8u4xC1jyG3S9QHYIqlEbLHMKsvlqC4yoaf");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background-image: url("http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png");
@@ -432,23 +434,23 @@ hr {
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
     background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHVz_cjcJ0yfXYNOuTjKjt1-8syJoXeYbLplh4TzpfaNhvV8J9eA");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 35px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
-        font-size: 15px; } }
+        font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     background-image: url("http://www.sheffield.ac.uk/polopoly_fs/1.385154!/image/Year_11_logo.jpg");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 35px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
+        font-size: 0px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
